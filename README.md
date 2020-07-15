@@ -1,6 +1,6 @@
-Команда 3
+Командный проект
 
-@Ihor Malyshko - тимлид
+@Ihor Malyshko
 @AndrewZ
 @Anastasiia Ivanova
 @Dima Omelyanov
